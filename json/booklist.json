@@ -1,0 +1,37 @@
+[
+    {
+        "title":"The Immortalists",
+        "author":"Chloe Benjamin",
+        "introduction":"If you were told the date of your death, how would it shape your…",
+        "status":"50% completed",
+        "coverimg":"https://github.com/fanteam/wkZeplin-app/blob/master/img/img_theImmortalists.png?raw=true",
+        "progressBar":0.5,
+        "fontColor":"#b1b1b1",
+        "fontweight":"normal",
+        "statusWidth":100
+    },
+    {
+        "title":"Grist Mill Road",
+        "author":"Christopher J.",
+        "introduction":"Twenty-six years ago Hannah had her eye shot out. Now she wants…",
+        "status":"START READ",
+        "coverimg":"https://github.com/fanteam/wkZeplin-app/blob/master/img/img_gristmillroad.png?raw=true",
+        "progressBar":0,
+        "fontColor":"#EB6464" ,
+        "fontweight":"bold",
+        "statusWidth":80
+    },
+    {
+        "title":"Street Art Activity Book",
+        "author":"Mitchell Beazley",
+        "introduction":"Street art is colorful, vibrant, diverse and exciting.Now, you can create…",
+        "status":"70% completed",
+        "coverimg":"https://github.com/fanteam/wkZeplin-app/blob/master/img/img_streetartactivitybook.png?raw=true",
+        "progressBar":0.7,
+        "fontColor":"#b1b1b1",
+        "fontweight":"normal",
+        "statusWidth":100
+    }
+
+    
+]
